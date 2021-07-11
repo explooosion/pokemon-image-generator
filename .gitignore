@@ -107,8 +107,5 @@ venv.bak/
 # Jetbrains IDE
 .idea
 
-# Generator output
-plots/*.png
-
 # DS store
 .DS_Store

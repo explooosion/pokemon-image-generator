@@ -29,7 +29,7 @@ if __name__ == "__main__":
         type=str,
         help="Filename of target image. Located in data/target_images/",
         required=False,
-        default="weepinbell.jpg",
+        default="pekora.png",
     )
 
     arg_parser.add_argument(
